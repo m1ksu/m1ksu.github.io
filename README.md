@@ -1,2 +1,2 @@
 # m1ksu.github.io
-My hub.
+My hub with links to my side-projects.
